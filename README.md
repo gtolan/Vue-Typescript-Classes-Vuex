@@ -1,4 +1,10 @@
-# typescript-todo
+# typescript - Full Project start 
+
+# Vuex Decorator Classes
+# Vue Property Decorators
+
+## Reactive Observable state with RTDB from Firebase
+## Authentication / Image, File upload storage / Add Products, Articles, send messages to other users
 
 ## Project setup
 ```
